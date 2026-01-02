@@ -1,0 +1,38 @@
+[
+{
+  "directory": "D:/all_projects/C++_projects/SZUHomework/DroneLogisticsSystem/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/DroneApp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\DroneApp.dir\\src\\Drone.cpp.obj -c D:\\all_projects\\C++_projects\\SZUHomework\\DroneLogisticsSystem\\src\\Drone.cpp",
+  "file": "D:/all_projects/C++_projects/SZUHomework/DroneLogisticsSystem/src/Drone.cpp",
+  "output": "CMakeFiles/DroneApp.dir/src/Drone.cpp.obj"
+},
+{
+  "directory": "D:/all_projects/C++_projects/SZUHomework/DroneLogisticsSystem/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/DroneApp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\DroneApp.dir\\src\\InspectionDrone.cpp.obj -c D:\\all_projects\\C++_projects\\SZUHomework\\DroneLogisticsSystem\\src\\InspectionDrone.cpp",
+  "file": "D:/all_projects/C++_projects/SZUHomework/DroneLogisticsSystem/src/InspectionDrone.cpp",
+  "output": "CMakeFiles/DroneApp.dir/src/InspectionDrone.cpp.obj"
+},
+{
+  "directory": "D:/all_projects/C++_projects/SZUHomework/DroneLogisticsSystem/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/DroneApp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\DroneApp.dir\\src\\LogisticsDrone.cpp.obj -c D:\\all_projects\\C++_projects\\SZUHomework\\DroneLogisticsSystem\\src\\LogisticsDrone.cpp",
+  "file": "D:/all_projects/C++_projects/SZUHomework/DroneLogisticsSystem/src/LogisticsDrone.cpp",
+  "output": "CMakeFiles/DroneApp.dir/src/LogisticsDrone.cpp.obj"
+},
+{
+  "directory": "D:/all_projects/C++_projects/SZUHomework/DroneLogisticsSystem/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/DroneApp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\DroneApp.dir\\src\\Order.cpp.obj -c D:\\all_projects\\C++_projects\\SZUHomework\\DroneLogisticsSystem\\src\\Order.cpp",
+  "file": "D:/all_projects/C++_projects/SZUHomework/DroneLogisticsSystem/src/Order.cpp",
+  "output": "CMakeFiles/DroneApp.dir/src/Order.cpp.obj"
+},
+{
+  "directory": "D:/all_projects/C++_projects/SZUHomework/DroneLogisticsSystem/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/DroneApp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\DroneApp.dir\\src\\SystemManager.cpp.obj -c D:\\all_projects\\C++_projects\\SZUHomework\\DroneLogisticsSystem\\src\\SystemManager.cpp",
+  "file": "D:/all_projects/C++_projects/SZUHomework/DroneLogisticsSystem/src/SystemManager.cpp",
+  "output": "CMakeFiles/DroneApp.dir/src/SystemManager.cpp.obj"
+},
+{
+  "directory": "D:/all_projects/C++_projects/SZUHomework/DroneLogisticsSystem/build",
+  "command": "D:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/DroneApp.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\DroneApp.dir\\src\\main.cpp.obj -c D:\\all_projects\\C++_projects\\SZUHomework\\DroneLogisticsSystem\\src\\main.cpp",
+  "file": "D:/all_projects/C++_projects/SZUHomework/DroneLogisticsSystem/src/main.cpp",
+  "output": "CMakeFiles/DroneApp.dir/src/main.cpp.obj"
+}
+]

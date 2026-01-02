@@ -1,0 +1,3 @@
+D:/all_projects/C++_projects/SZUHomework/DroneLogisticsSystem/build/CMakeFiles/DroneApp.dir
+D:/all_projects/C++_projects/SZUHomework/DroneLogisticsSystem/build/CMakeFiles/edit_cache.dir
+D:/all_projects/C++_projects/SZUHomework/DroneLogisticsSystem/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:\CMake\bin\cmake.exe -E rm -f CMakeFiles\DroneApp.dir/objects.a
+D:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\DroneApp.dir/objects.a @CMakeFiles\DroneApp.dir\objects1.rsp
+D:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\DroneApp.dir/objects.a -Wl,--no-whole-archive -o DroneApp.exe -Wl,--out-implib,libDroneApp.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DroneApp.dir\linkLibs.rsp
