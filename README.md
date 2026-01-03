@@ -1,6 +1,3 @@
-这是一个为您生成的 `README.md` 文件，涵盖了项目介绍、功能特性、环境要求、构建运行步骤以及项目结构说明。您可以直接复制保存为 `README.md`。
-
----
 
 # 城市低空物流调度系统 (City Low-Altitude Logistics Scheduling System)
 
@@ -111,3 +108,4 @@ cmake --build .
 
 * **控制台编码**：`main.cpp` 中使用了 `SetConsoleOutputCP(65001)` 以支持 UTF-8 中文输出。请在 Windows 终端（如 CMD 或 PowerShell）中运行，以获得最佳显示效果。
 * **文件路径**：程序默认在 `../data/` 路径下读取和保存文件，请确保目录结构正确，或根据运行位置调整代码中的路径。
+
